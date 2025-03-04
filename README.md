@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering and Data Mining** stu
 ---
 
 ## 📌 Featured Projects
-🔹 **[Sales Data Analysis](https://github.com/your-username/your-repo)** – Extracting and analyzing Excel data.  
+🔹 **[Sales Data Analysis](https://github.com/oyasumi888/sales_data_analysis)** – Extracting and analyzing Excel data.  
 
 ---
 
