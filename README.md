@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Ricardo.
 
 Welcome to my GitHub profile! I'm a **Software Engineering and Data Mining** student, passionate about **data analysis, microservices, and embedded systems**.
 
